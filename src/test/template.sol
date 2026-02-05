@@ -5,10 +5,9 @@ import "./interface.sol";
 
 //CONSTANTS
 CheatCodes constant cheat = CheatCodes(0x7109709ECfa91a80626fF3989D68f67F5b1DD12D);
-// Attacker Contract 
-// Attacker Address
 // Vulnerable Contract
 // Token contract addresses (i.e USDT token contract, EGD, etc)
+// Other needed addresses - CakeLP pool addresses, DEX Router addresses, Vault addresses, etc
 
 /* Simutated Attacker 
 - Do set up
